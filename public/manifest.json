@@ -1,0 +1,15 @@
+{
+  "short_name": "Roomies",
+  "name": "Roomies",
+  "icons": [
+    {
+      "src": "strawberry-icon.png",
+      "sizes": "1254x1254",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
