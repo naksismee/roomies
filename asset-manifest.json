@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/roomies/static/css/main.c983800e.css",
-    "main.js": "/roomies/static/js/main.672b936c.js",
-    "static/js/973.67cc1411.chunk.js": "/roomies/static/js/973.67cc1411.chunk.js",
+    "main.js": "/roomies/static/js/main.cecf5e07.js",
+    "static/js/453.6aaede92.chunk.js": "/roomies/static/js/453.6aaede92.chunk.js",
     "static/media/roomies-house-logo.png": "/roomies/static/media/roomies-house-logo.57ef93dcf037812650a3.png",
     "static/media/roomies-wordmark.png": "/roomies/static/media/roomies-wordmark.3851fb82089a1024b825.png",
     "static/media/roomies-strawberry-transparent.png": "/roomies/static/media/roomies-strawberry-transparent.9680aaa8b68236014c0d.png",
     "index.html": "/roomies/index.html",
     "main.c983800e.css.map": "/roomies/static/css/main.c983800e.css.map",
-    "main.672b936c.js.map": "/roomies/static/js/main.672b936c.js.map",
-    "973.67cc1411.chunk.js.map": "/roomies/static/js/973.67cc1411.chunk.js.map"
+    "main.cecf5e07.js.map": "/roomies/static/js/main.cecf5e07.js.map",
+    "453.6aaede92.chunk.js.map": "/roomies/static/js/453.6aaede92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c983800e.css",
-    "static/js/main.672b936c.js"
+    "static/js/main.cecf5e07.js"
   ]
 }
