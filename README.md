@@ -79,6 +79,6 @@ public/               HTML template and browser icons
 
 ## Deployment
 
-GitHub Pages serves the browser-local demo. The workflow builds on each push to `main` and publishes the `build` folder. In repository settings, select **Pages → Source → GitHub Actions**.
+GitHub Pages serves the browser-local demo from the `gh-pages` branch. On each push to `main`, the workflow runs the checks, builds the site, updates that branch, and requests a Pages build. The repository is configured to publish the root of `gh-pages`; no external hosting account is required.
 
 For the account-backed version, run `npm run build:full` and `npm run serve` on a Node host with persistent disk storage. Use HTTPS and `COOKIE_SECURE=true` for an internet-facing deployment. GitHub Pages does not run the Node API.
